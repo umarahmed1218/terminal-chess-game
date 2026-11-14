@@ -107,5 +107,3 @@ Column: e
 **Repository:** `terminal-chess-game`
 **URL:** [https://github.com/umarahmed1218/terminal-chess-game](https://github.com/umarahmed1218/terminal-chess-game)
 **Author:** [umarahmed1218](https://github.com/umarahmed1218)
-
---- 
